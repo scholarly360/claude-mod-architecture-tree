@@ -1,0 +1,5 @@
+{
+  "name": "architecture-tree",
+  "version": "0.1.0",
+  "description": "When a prompt uses architecture or design words, asks Claude to answer with the system architecture as a box-drawing tree."
+}
