@@ -1,6 +1,6 @@
 # architecture-tree
 
-A [Claude Code](https://claude.com/claude-code) plugin that watches for architecture or design talk in your prompts and asks Claude to answer with a box-drawing tree of the system, alongside its normal reply.
+A [Claude Code](https://claude.com/claude-code) mod (plugin) that watches for architecture or design talk in your prompts and asks Claude to answer with a box-drawing tree of the system, alongside its normal reply.
 
 **Version:** 0.1.0
 
